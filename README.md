@@ -5,7 +5,8 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/EricOo0/count.svg" />
-</p>
+</p>  
+
 ![Eric's github stats](https://github-readme-stats.vercel.app/api?username=EricOo0&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricOo0&theme=vue-dark)  
 
