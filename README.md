@@ -1,7 +1,21 @@
 ### Hi there, I am Eric 👋
+
 * 🔭 I’m currently working in Shenzhen, China.    
+
 * 🎓 Graduate from bjtu,ntu.  
+
 * 📫 reach me: weiz0016@e.ntu.edu.sg.   
+
+  ------
+
+* ## [Learning Record]( https://github.com/EricOo0/zhifengwei.blog)
+
+* ## [Interview notebook](https://github.com/EricOo0/interview_prepare)
+
+* ## [Course notebook](https://github.com/EricOo0/NTU_EEE_SP_course)
+
+* ## [miscellany](https://github.com/EricOo0/my_repo)
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/EricOo0/count.svg" />
@@ -23,4 +37,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
