@@ -1,7 +1,7 @@
 ### Hi there, I am Eric 👋
-* 📫 reach me: weiz0016@e.ntu.edu.sg 
+* 📫 reach me: weiz0016@e.ntu.edu.sg  
 ![Eric's github stats](https://github-readme-stats.vercel.app/api?username=EricOo0&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricOo0&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricOo0&theme=vue-dark)  
 
 
 <!--
