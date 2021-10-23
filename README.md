@@ -13,6 +13,8 @@
 * ## [Learning Record]( https://github.com/EricOo0/zhifengwei.blog)
 
 * ## [Interview notebook](https://github.com/EricOo0/interview_prepare)
+ 
+* ## [Dissertation -- NLP classification tasks]( https://github.com/EricOo0/Dissertation)
 
 * ## [Course notebook](https://github.com/EricOo0/NTU_EEE_SP_course)
 
