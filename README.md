@@ -6,8 +6,7 @@
 
 * 📫 reach me: weiz0016@e.ntu.edu.sg.  
 
-* 💻 HomePage: https://ericcloud.fun/  ； https://ericoo0.github.io/interview_prepare/
-
+* 💻 HomePage: https://ericcloud.fun/  ； https://zhifengwei.site/github
   ------
 
 * ## [Learning Record]( https://github.com/EricOo0/zhifengwei.blog)
