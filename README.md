@@ -10,7 +10,7 @@
  https://ericcloud.fun/    
  http://zhifengwei.site/github
   ------
-* ## [Go warmup projext]( https://github.com/EricOo0/Go_warmup)
+* ## [Go warmup project]( https://github.com/EricOo0/Go_warmup)
 * ## [Learning Record]( https://github.com/EricOo0/zhifengwei.blog)
 
 * ## [Interview notebook](https://github.com/EricOo0/interview_prepare)
