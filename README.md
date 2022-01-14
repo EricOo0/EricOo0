@@ -7,8 +7,7 @@
 * 📫 reach me: weiz0016@e.ntu.edu.sg.  
 
 * 💻 HomePage:   
- https://ericcloud.fun/    
- http://zhifengwei.site/github
+ http://zhifengwei.site
   ------
 * ## [Go warmup project]( https://github.com/EricOo0/Go_warmup)
 * ## [Learning Record]( https://github.com/EricOo0/zhifengwei.blog)
