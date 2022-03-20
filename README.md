@@ -1,13 +1,15 @@
 ### Hi there, I am Eric 👋
 
-* 🔭 I’m currently working in Shenzhen, China.    
+* 🔭 I’m currently working in Shopee,Shenzhen, China.    
+
+* 🔭 Have Interned at Tencent,Ericsson
 
 * 🎓 Graduate from bjtu,ntu.  
 
 * 📫 reach me: weiz0016@e.ntu.edu.sg.  
 
 * 💻 HomePage:   
- http://zhifengwei.site
+ https://zhifengwei.site
   ------
 * ## [Go warmup project]( https://github.com/EricOo0/Go_warmup)
 * ## [Learning Record]( https://github.com/EricOo0/zhifengwei.blog)
