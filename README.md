@@ -9,8 +9,9 @@
 * 📫 reach me: weiz0016@e.ntu.edu.sg.  
 
 * 💻 HomePage:   
- [website](https://zhifengwei.site) -- domain has expired
- [juejin_homepage](https://juejin.cn/user/554626355561719)
+ [** website **](https://zhifengwei.site) -- domain has expired
+ 
+ [** juejin_homepage **](https://juejin.cn/user/554626355561719)
   ------
 * ## [Go HTTP & RPC Project](https://github.com/EricOo0/http_server-tcp_server)
 * ## [Go warmup project]( https://github.com/EricOo0/Go_warmup)
