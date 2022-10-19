@@ -14,6 +14,7 @@
      [juejin_homepage](https://juejin.cn/user/554626355561719)
  
   ------
+* ## [University Selection MiniProgram](https://github.com/orgs/NtuAalto955/repositories)
 * ## [Go HTTP & RPC Project](https://github.com/EricOo0/http_server-tcp_server)
 * ## [Go warmup project]( https://github.com/EricOo0/Go_warmup)
 * ## [Learning Record]( https://github.com/EricOo0/zhifengwei.blog)
