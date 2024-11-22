@@ -16,6 +16,7 @@
   ------
 * ## [priority_kafka_client](https://github.com/EricOo0/priority_kafka)
 * ## [University Selection MiniProgram](https://github.com/orgs/NtuAalto955/repositories)
+* ## [日常工具桌面应用开发脚手架](https://github.com/EricOo0/electron-react-tool-scaffold)
 * ## [Go HTTP & RPC Project](https://github.com/EricOo0/http_server-tcp_server)
 * ## [Go warmup project]( https://github.com/EricOo0/Go_warmup)
 * ## [Learning Record]( https://github.com/EricOo0/zhifengwei.blog)
