@@ -17,6 +17,7 @@
 
  
   ------
+* ## [gitlab-cicd-aiCR] (https://github.com/EricOo0/gitlab_ai_code_review)
 * ## [priority_kafka_client](https://github.com/EricOo0/priority_kafka)
 * ## [University Selection MiniProgram](https://github.com/orgs/NtuAalto955/repositories)
 * ## [日常工具桌面应用开发脚手架](https://github.com/EricOo0/electron-react-tool-scaffold)
