@@ -12,6 +12,9 @@
      [website ](https://zhifengwei.site) -- domain has expired
  
      [juejin_homepage](https://juejin.cn/user/554626355561719)
+
+     微信公众号：Toybot
+
  
   ------
 * ## [priority_kafka_client](https://github.com/EricOo0/priority_kafka)
