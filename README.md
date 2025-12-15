@@ -1,8 +1,8 @@
 ### Hi there, I am Eric 👋
 
-* 🔭 I’m currently working in Shopee,Shenzhen, China.    
+* 🔭 I’m currently working in Bytedance,Shenzhen, China.    
 
-* 🔭 Have Interned at Tencent,Ericsson
+* 🔭 Have worked/Interned at Shopee,Tencent,Ericsson
 
 * 🎓 Graduate from bjtu,ntu.  
 
@@ -17,6 +17,7 @@
 
  
   ------
+* ## [AI-stock-platform](https://github.com/EricOo0/stock-trading-platform)
 * ## [gitlab-cicd-aiCR](https://github.com/EricOo0/gitlab_ai_code_review)
 * ## [priority_kafka_client](https://github.com/EricOo0/priority_kafka)
 * ## [University Selection MiniProgram](https://github.com/orgs/NtuAalto955/repositories)
