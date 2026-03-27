@@ -17,6 +17,7 @@
 
  
   ------
+* ## [AI-workBench]( https://github.com/EricOo0/Agent_workBench)
 * ## [AI-stock-platform](https://github.com/EricOo0/stock-trading-platform)
 * ## [gitlab-cicd-aiCR](https://github.com/EricOo0/gitlab_ai_code_review)
 * ## [priority_kafka_client](https://github.com/EricOo0/priority_kafka)
